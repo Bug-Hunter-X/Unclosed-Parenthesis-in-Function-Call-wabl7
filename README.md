@@ -1,0 +1,1 @@
+This repository demonstrates a common Python error: forgetting to close parentheses in a function call. The `unclosed_parenthesis_bug.py` file contains the erroneous code, which results in a `SyntaxError`. The corrected code is shown in `unclosed_parenthesis_solution.py`.
